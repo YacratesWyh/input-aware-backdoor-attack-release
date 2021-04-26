@@ -18,7 +18,7 @@ from utils import progress_bar
 
 class my_test:
     def __init__:
-        print(test)
+        print(test2)
     
 
 class Normalize:
