@@ -16,6 +16,10 @@ from classifier_models import PreActResNet18
 from networks.models import Generator, NetC_MNIST
 from utils import progress_bar
 
+class my_test:
+    def __init__:
+        print(test)
+    
 
 class Normalize:
     def __init__(self, opt, expected_values, variance):
